@@ -8,7 +8,8 @@ Es vereint die wichtigsten Zugriffs‑ und Verwaltungsprotokolle für Netzwerkad
 ## 🔗 Unterstützte Funktionen
 
 ### **SSH & SFTP**
-Sichere Shell‑Verbindungen und Dateiübertragung für Server, Router, Switches und Netzwerkgeräte.
+Sichere Shell‑Verbindungen und Dateiübertragung für Server, Router, Switches und Netzwerkgeräte.  
+Terminal und Verzeichnisstruktur werden übersichtlich nebeneinander dargestellt.
 
 ### **Remote Desktop (RDP)**
 Komfortabler Zugriff auf Windows‑Systeme über eine integrierte RDP‑Ansicht.
@@ -22,19 +23,17 @@ Direkte Einbindung von Weboberflächen – ideal für Firewalls, Access Points, 
 
 NetRemote richtet sich an:
 
-- Netzwerk‑ und Systemadministratoren  
-- Techniker im Außendienst  
-- DevOps‑ und Infrastruktur‑Teams  
-- Alle, die häufig zwischen SSH, SFTP, RDP und Web‑Interfaces wechseln  
+- Netzwerk‑ und Systemadministratoren
+- Homelab enthusiasten
+- alle, die regelmäßig mit SSH, RDP oder Servern arbeiten  
 
 ---
 
 ## 🚀 Vorteile
 
-- Alles in einer Anwendung  
-- Portable, keine Installation notwendig  
-- Einheitliche Bedienung für alle Protokolle  
-- Ideal für tägliche Admin‑Workflows  
+- Alles in einer Anwendung
+- Einheitliche Oberfläche für alle Protokolle
+- Ideal für tägliche Admin‑Workflows
 
 ---
 
@@ -42,20 +41,6 @@ NetRemote richtet sich an:
 
 Die aktuellen Versionen findest du unter **Releases**:  
 https://github.com/Dyonis89/NetRemote/releases
-
----
-
-## 🛠️ Installer (zukünftig)
-
-Eine optionale Installer‑Version ist geplant.  
-Diese ermöglicht:
-
-- automatische Updates  
-- saubere Deinstallation  
-- Integration ins Startmenü  
-- optionales Setzen von Dateiverknüpfungen  
-
-Bis dahin stehen portable ZIP‑Versionen zur Verfügung.
 
 ---
 
