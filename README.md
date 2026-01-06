@@ -24,7 +24,7 @@ Direkte Einbindung von Weboberflächen – ideal für Firewalls, Access Points, 
 NetRemote richtet sich an:
 
 - Netzwerk‑ und Systemadministratoren
-- Homelab enthusiasten
+- Homelab‑Enthusiasten
 - alle, die regelmäßig mit SSH, RDP oder Servern arbeiten  
 
 ---
@@ -34,6 +34,26 @@ NetRemote richtet sich an:
 - Alles in einer Anwendung
 - Einheitliche Oberfläche für alle Protokolle
 - Ideal für tägliche Admin‑Workflows
+
+---
+
+## 📸 Screenshots
+
+### Verbindungsmanager
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/Startscreen.png)
+
+### SSH-Verbindungen
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/SshBeispiel.png)
+
+### RDP-Verbindungen
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/RdpBeispiel.png)
+
+### Webbrowser-Integration
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/HttpBeispiel.png)
 
 ---
 
