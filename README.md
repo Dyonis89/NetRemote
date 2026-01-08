@@ -1,5 +1,5 @@
 # NetRemote
-
+<img src="https://github.com/Dyonis89/NetRemote/blob/main/screenshots/AppIcon.png" alt="Logo" height="48"/>
 NetRemote ist ein kompaktes, portables Remote‑Management‑Tool für Windows.  
 Es vereint die wichtigsten Zugriffs‑ und Verwaltungsprotokolle für Netzwerkadministration in einer einzigen Anwendung.
 
@@ -9,13 +9,14 @@ Es vereint die wichtigsten Zugriffs‑ und Verwaltungsprotokolle für Netzwerkad
 
 ### **SSH & SFTP**
 Sichere Shell‑Verbindungen und Dateiübertragung für Server, Router, Switches und Netzwerkgeräte.  
-Terminal und Verzeichnisstruktur werden übersichtlich nebeneinander dargestellt.
+Terminal und Verzeichnisstruktur werden übersichtlich nebeneinander dargestellt und können interagieren.
 
 ### **Remote Desktop (RDP)**
 Komfortabler Zugriff auf Windows‑Systeme über eine integrierte RDP‑Ansicht.
 
 ### **Webbrowser‑Integration**
 Direkte Einbindung von Weboberflächen – ideal für Firewalls, Access Points, Switches, IoT‑Geräte und interne Tools.
+Dank integrierter WebView2‑Engine können eigene JavaScript‑Automationen direkt auf der Zielseite ausgeführt werden – ideal für Login‑Flows, Status‑Checks oder wiederkehrende Klick‑Abläufe.
 
 ---
 
@@ -25,7 +26,7 @@ NetRemote richtet sich an:
 
 - Netzwerk‑ und Systemadministratoren
 - Homelab‑Enthusiasten
-- alle, die regelmäßig mit SSH, RDP oder Servern arbeiten  
+- alle, die regelmäßig mit SSH, RDP oder Servern arbeiten.
 
 ---
 
@@ -66,5 +67,5 @@ https://github.com/Dyonis89/NetRemote/releases
 
 ## 📄 Lizenz
 
-Closed Source – Nutzung und Weitergabe der Binaries erlaubt.  
+Die Anwendung ist Closed Source. Die Nutzung und Weitergabe der Binaries ist erlaubt.
 Der Quellcode bleibt privat.
