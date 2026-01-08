@@ -63,6 +63,15 @@ NetRemote richtet sich an:
 Die aktuellen Versionen findest du unter **Releases**:  
 https://github.com/Dyonis89/NetRemote/releases
 
+--- 
+
+## ❤️ Unterstütze das Projekt
+
+NetRemote entsteht komplett in meiner Freizeit. 
+Wenn dir das Tool gefällt oder du die Weiterentwicklung unterstützen möchtest, freue ich mich über eine kleine Anerkennung: 
+
+👉 [Unterstützen / Donate](DONATE.md)
+
 ---
 
 ## 📄 Lizenz
