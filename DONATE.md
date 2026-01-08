@@ -1,10 +1,22 @@
-# Unterstütze NetRemote
+# Unterstütze meine Projekte
 
-NetRemote ist ein kostenloses, privates Projekt.  
-Wenn du die Entwicklung unterstützen möchtest, kannst du hier spenden:
+Vielen Dank, dass du meine Softwareprojekte nutzt!  
+NetRemote und meine weiteren Tools entstehen komplett in meiner Freizeit.  
+Wenn dir meine Arbeit gefällt oder dir im Alltag hilft, freue ich mich über eine kleine Unterstützung.
 
-- PayPal: LINK
-- Ko-fi: LINK
-- BuyMeACoffee: LINK
+Jeder Beitrag – egal ob groß oder klein – hilft mir, die Projekte weiterzuentwickeln und neue Funktionen umzusetzen.
 
-Vielen Dank für deine Unterstützung!
+---
+
+## Spenden per PayPal
+
+Du kannst mich direkt über PayPal unterstützen:
+
+👉 **[Jetzt unterstützen](https://www.paypal.com/donate/?hosted_button_id=8YWTLF3X2FCBE)**
+
+*(Die Spende erscheint mit der Nachricht „Unterstützung für meine Projekte – GitHub: Dyonis89“.)*
+
+---
+
+Vielen Dank für deine Unterstützung!  
+Dennis (Dyonis89)
