@@ -1,22 +1,23 @@
 <img src="https://github.com/Dyonis89/NetRemote/blob/main/screenshots/AppBanner.png" alt="Logo" height="128"/>
 NetRemote ist ein kompaktes, portables Remote‑Management‑Tool für Windows.
-Es vereint die wichtigsten Zugriffs‑ und Verwaltungsprotokolle für Netzwerkadministration in einer einzigen Anwendung.
+Es vereint SSH, SFTP, RDP und Webzugriffe in einer einzigen, schnellen und übersichtlichen Anwendung – komplett ohne Installation, Cloud‑Abhängigkeiten oder Telemetrie.
 
 ## Warum NetRemote?
 
-Ich habe NetRemote entwickelt, weil mir viele bestehende Alternativen zu überladen, unübersichtlich oder schlicht zu langsam waren.  
-Mein Ziel war eine minimalistische, schnelle und portable Lösung, die ohne lange Ladezeiten auskommt und trotzdem alle wichtigen Funktionen für den täglichen Admin‑Alltag bietet.
+Viele bestehende Admin‑Tools sind überladen, langsam oder unübersichtlich.  
+NetRemote entstand aus dem Wunsch nach einer schnellen, minimalistischen und portablen Lösung, die alle wichtigen Funktionen für den täglichen Admin‑Alltag vereint.
 
-Inzwischen bietet NetRemote sogar mehr Funktionen als viele etablierte Admin‑Tools – und ich freue mich, es nun veröffentlichen zu können.
-
-Ein weiterer wichtiger Punkt für mich: Alle Daten bleiben vollständig lokal.  
-Es gibt keine Cloud‑Abhängigkeiten und keine Telemetrie.
+Alle Daten bleiben vollständig lokal – keine Cloud, keine Telemetrie, keine externen Abhängigkeiten.
 
 ## Unterstützte Funktionen
 
 ### **SSH & SFTP**
 Sichere Shell‑Verbindungen und Dateiübertragung für Server, Router, Switches und Netzwerkgeräte.  
 Terminal und Verzeichnisstruktur werden übersichtlich nebeneinander dargestellt und können interagieren.
+
+**Inklusive:**
+- integrierte Medienvorschau (Bilder, Videos, Audio)
+- Syntax‑Highlighting‑Editor für Konfigurationsdateien und Code
 
 ### **Remote Desktop (RDP)**
 Komfortabler Zugriff auf Windows‑Systeme über eine integrierte RDP‑Ansicht.
@@ -37,6 +38,8 @@ NetRemote richtet sich an:
 
 - Alles in einer Anwendung
 - Einheitliche Oberfläche für alle Protokolle
+- Portabel, keine Installation notwendig
+- Keine Cloud, keine Telemetrie
 - Ideal für tägliche Admin‑Workflows
 
 ## Screenshots
@@ -59,13 +62,21 @@ NetRemote richtet sich an:
 
 ## Download
 
+NetRemote wird in zwei Varianten bereitgestellt:
+
+- **Framework‑Dependent** – kleiner Download, benötigt .NET Desktop Runtime  
+- **Self‑Contained** – größer, aber vollständig eigenständig und ohne Abhängigkeiten
+
+Beide Versionen sind portabel, funktional identisch und benötigen keine Installation.
+
 Die aktuellen Versionen findest du unter **Releases**: https://github.com/Dyonis89/NetRemote/releases
 
 ## Hinweise zur Sicherheit
 
-Zugangsdaten werden derzeit für SSH Verbindungen lokal und unverschlüsselt gespeichert.  
-Eine optionale Verschlüsselung ist für zukünftige Versionen vorgesehen.
-RDP Zugangsdaten werden durch Windows verwaltet, daher kann auch kein Passwort parametriert werden.
+SSH‑Zugangsdaten werden sicher im Windows‑Anmeldeinformationsspeicher (Credential Manager) abgelegt.  
+Es findet keine Cloud‑Speicherung oder Telemetrie statt.
+
+RDP‑Zugangsdaten werden wie gewohnt durch Windows selbst verwaltet.
 
 ## Verwendete Bibliotheken
 
