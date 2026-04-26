@@ -39,6 +39,18 @@ Die vollständigen Lizenztexte befinden sich in den jeweiligen Projektrepositori
 **Lizenz:** MIT  
 **Repository:** https://github.com/microsoft/XamlBehaviorsWpf
 
+## LibVLC / VideoLAN
+**Autor:** VideoLAN  
+**Lizenz:** LGPL 2.1  
+**Repository:** https://code.videolan.org/videolan/vlc  
+**Hinweis:** NetRemote verwendet LibVLC für die Medienwiedergabe (Video/Audio).  
+Die Bibliothek wird dynamisch eingebunden und nicht modifiziert.
+
+## LibVLCSharp
+**Autor:** VideoLAN  
+**Lizenz:** MIT  
+**Repository:** https://github.com/videolan/libvlcsharp
+
 ## XtermSharp (modifizierte Version)
 **Originalautor:** Miguel de Icaza
 **Lizenz:** MIT
