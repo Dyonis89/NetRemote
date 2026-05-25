@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.1.0 – VNC‑Integration & UI‑/Funktions‑Optimierungen
+### Veröffentlichungsdatum
+2026‑05‑25
+
+### VNC‑Integration
+- Neues VNC‑Modul auf Basis von *RemoteViewing* integriert
+
+### RDP‑Verbesserungen
+- RDP‑Adapter eingeführt für Abwärtskompatibilität zu RDP‑Clients 7–12
+
+### HTTP‑/Browser‑Modul
+- Overlay‑System überarbeitet (neue Tabs, Schließen, Fokusverhalten)
+
+### SSH, SFTP & Terminal
+- Snippet‑System erweitert (lokale & globale Snippets mit Suchfunktion)
+- SFTP‑Browser überarbeitet
+- Media‑/Image‑Viewer im SSH‑Kontext eingeführt
+
+### UI & UX
+- Neue Suchfunktion für Verbindungen mit zuletzt genutzt Sortierung.  
+- Einstellungen und About‑Seite in modale Overlays ausgelagert
+- FontFamily‑Fallbacks für ältere Windows‑Versionen (Server, Win10)
+
+### Installer
+- Installer Integriert 
+- Dateizuordnungen (File Associations) integriert
+
+---
+
 ## 1.0.1 – Erweiterte SSH‑Funktionen & Medienvorschau
 ### Veröffentlichungsdatum
 2025‑01‑09
