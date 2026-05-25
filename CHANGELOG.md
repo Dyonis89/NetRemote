@@ -24,7 +24,7 @@
 - FontFamily‑Fallbacks für ältere Windows‑Versionen (Server, Win10)
 
 ### Installer
-- Installer Integriert 
+- Installer integriert 
 - Dateizuordnungen (File Associations) integriert
 
 ---
