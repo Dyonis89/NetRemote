@@ -18,9 +18,14 @@ Terminal und Verzeichnisstruktur werden übersichtlich nebeneinander dargestellt
 **Inklusive:**
 - integrierte Medienvorschau (Bilder, Videos, Audio)
 - Syntax‑Highlighting‑Editor für Konfigurationsdateien und Code
+- Snippet-System (lokal & global)
 
 ### **Remote Desktop (RDP)**
 Komfortabler Zugriff auf Windows‑Systeme über eine integrierte RDP‑Ansicht.
+Unterstützt verschiedene RDP‑Client‑Versionen (7–12) dank eigenem Kompatibilitäts‑Adapter.
+
+### **VNC‑Integration**
+Direkter Zugriff auf Systeme über das VNC/RFB‑Protokoll für z.B. Fernwartungen oder Remotezugriffe.
 
 ### **Webbrowser‑Integration**
 Direkte Einbindung von Weboberflächen – ideal für Firewalls, Access Points, Switches, IoT‑Geräte und interne Tools.
@@ -68,12 +73,13 @@ NetRemote wird in zwei Varianten bereitgestellt:
 - **Self‑Contained** – größer, aber vollständig eigenständig und ohne Abhängigkeiten
 
 Beide Versionen sind portabel, funktional identisch und benötigen keine Installation.
+Ein optionaler **Installer** steht ebenfalls zur Verfügung.
 
 Die aktuellen Versionen findest du unter **Releases**: https://github.com/Dyonis89/NetRemote/releases
 
 ## Hinweise zur Sicherheit
 
-SSH‑Zugangsdaten werden sicher im Windows‑Anmeldeinformationsspeicher (Credential Manager) abgelegt.  
+SSH und VNC‑Zugangsdaten werden sicher im Windows‑Anmeldeinformationsspeicher (Credential Manager) abgelegt.  
 Es findet keine Cloud‑Speicherung oder Telemetrie statt.
 
 RDP‑Zugangsdaten werden wie gewohnt durch Windows selbst verwaltet.
