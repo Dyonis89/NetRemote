@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.1.1 – VNC und Verbindungsverwaltungs‑Optimierungen
+### Veröffentlichungsdatum
+2026‑06‑04
+
+### VNC-Optimierungen
+- VNC Eingabe-Verarbeitung korrigiert (bezüglich Windows Shortcuts)
+- View-Only als default gesetzt, mit Banner zum Steuerung übernehmen
+- VNC Auto‑Reconnect funktioniert jetzt zuverlässig bei Verbindungsabbrüchen
+- VNC Connect‑Timeout verhindert Hängenbleiben beim Verbindungsaufbau
+
+### Verbindungsverwaltung
+- Interne Optimierungen an der Verbindungsverwaltung und Changetracking der Profilspeicherung
+
+---
+
 ## 1.1.0 – VNC‑Integration & UI‑/Funktions‑Optimierungen
 ### Veröffentlichungsdatum
 2026‑05‑25
