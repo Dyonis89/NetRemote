@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.1.2 – UI-Verbesserungen & Stabilitäts-Updates
+### Veröffentlichungsdatum
+2026‑07‑09
+
+### RDP-Optimierungen
+- Allgemeine RDP‑Stabilitäts‑ und Performance‑Verbesserungen
+
+### VNC-Optimierungen
+- Bugfix für VNC‑Input (Windows‑Shortcuts / Eingabeverarbeitung)
+- VNC‑Toolbar integriert
+- Session‑Handling optimiert (Reconnect, Disconnect‑Flow)
+
+### SSH-Optimierungen
+- Terminal‑Bugfix beim Kopieren von Text (Unicode‑Zeichen „Ȁ“ entfernt)
+- Sidebar‑Größe speicherbar gemacht
+- Option hinzugefügt: gleiche Sidebar‑Breite für alle Sessions
+
+### Verbindungsverwaltung
+- Auto‑Reload‑Option für Verbindungen hinzugefügt
+- neue Info‑Sidebar statt zuklappendem Properties‑Panel
+- Layout‑Optimierungen
+- konsistentere Darstellung
+
+### UI & UX
+- Tab‑Namen sind jetzt änderbar
+
 ## 1.1.1 – VNC und Verbindungsverwaltungs‑Optimierungen
 ### Veröffentlichungsdatum
 2026‑06‑04
