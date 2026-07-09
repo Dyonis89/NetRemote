@@ -51,7 +51,7 @@ NetRemote richtet sich an:
 
 ### Verbindungsmanager
 
-![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/Startscreen.png)
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/Verbindungen_Dark.png)
 
 ### SSH-Verbindungen
 
