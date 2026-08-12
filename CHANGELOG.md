@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.1.3 – Quick Connect, API Tester und UX/UI-Verbesserungen
+### Veröffentlichungsdatum
+2026‑08‑12
+
+### Quick Connect
+- Quick Connect für einmal Verbindungen eingeführt
+- Schnellzugriff auf zuletzt genutzte Quick Connect Verbindungen
+
+### HTTP-Erweiterung
+- API Tester als Sidebar hinzugefügt
+
+### Allgemein
+- Tastatur Fokus optimiert
+- Verschiedenste UI Updates
+- Datenspeicherung von Einstellungen und Profilen optimiert
+
 ## 1.1.2 – UI-Verbesserungen & Stabilitäts-Updates
 ### Veröffentlichungsdatum
 2026‑07‑09
