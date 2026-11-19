@@ -56,15 +56,19 @@ NetRemote richtet sich an:
 
 ### SSH-Verbindungen
 
-![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/SshBeispiel.png)
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/SSH_Sftp.png)
 
 ### RDP-Verbindungen
 
-![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/RdpBeispiel.png)
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/RDP.png)
 
 ### Webbrowser-Integration
 
-![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/HttpBeispiel.png)
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/Http_Automationen.png)
+
+### NetDiag - Netzwerk Verbindungstests
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/NetDiag.png)
 
 ## Download
 
