@@ -1,6 +1,6 @@
 <img src="https://github.com/Dyonis89/NetRemote/blob/main/screenshots/AppBanner.png" alt="Logo" height="128"/>
 NetRemote ist ein kompaktes, portables Remote‑Management‑Tool für Windows.
-Es vereint SSH, SFTP, RDP und Webzugriffe in einer einzigen, schnellen und übersichtlichen Anwendung – komplett ohne Installation, Cloud‑Abhängigkeiten oder Telemetrie.
+Es vereint SSH, SFTP, RDP, VNC, Webzugriffe und Netzwerkanalyse in einer einzigen, schnellen und übersichtlichen Anwendung – komplett ohne Cloud‑Abhängigkeiten oder Telemetrie.
 
 ## Warum NetRemote?
 
@@ -25,12 +25,24 @@ Komfortabler Zugriff auf Windows‑Systeme über eine integrierte RDP‑Ansicht.
 Unterstützt verschiedene RDP‑Client‑Versionen (7–12) dank eigenem Kompatibilitäts‑Adapter.
 
 ### **VNC‑Integration**
-Direkter Zugriff auf Systeme über das VNC/RFB‑Protokoll für z.B. Fernwartungen oder Remotezugriffe.
+Direkter Zugriff auf Systeme über das VNC/RFB‑Protokoll – ideal für Fernwartung, Embedded-Systeme, Linux-Server und Geräte ohne RDP-Unterstützung.
 
 ### **Webbrowser‑Integration**
 Direkte Einbindung von Weboberflächen – ideal für Firewalls, Access Points, Switches, IoT‑Geräte und interne Tools.
 Dank integrierter WebView2‑Engine können eigene JavaScript‑Automationen direkt auf der Zielseite ausgeführt werden – ideal für Login‑Flows, Status‑Checks oder wiederkehrende Klick‑Abläufe.
-Zudem wurde eine kleine API Test Sidebar eingebunden mit der verschiedene POST/GET abfragen zum testen ausgeführt werden können.
+Zusätzlich steht eine integrierte API-Test Sidebar zur Verfügung, mit der HTTP GET- und POST-Anfragen direkt aus NetRemote ausgeführt und analysiert werden können.
+
+### **NetDiag – Netzwerk- und Verbindungstests**
+
+Integrierte Diagnosefunktionen zur schnellen Analyse von Erreichbarkeit und Netzwerkproblemen.
+
+**Unterstützt:**
+- DNS-Auflösung
+- ICMP/Ping-Tests
+- TCP-Port-Erreichbarkeit
+- TraceRoute
+
+Ideal zur schnellen Fehlersuche bei Servern, Firewalls, Routern und Netzwerkdiensten.
 
 ## Einsatzgebiet
 
@@ -61,6 +73,10 @@ NetRemote richtet sich an:
 ### RDP-Verbindungen
 
 ![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/RDP.png)
+
+### VNC-Verbindungen
+
+![App Screenshot](https://github.com/Dyonis89/NetRemote/blob/main/screenshots/VNC.png)
 
 ### Webbrowser-Integration
 
