@@ -1,6 +1,6 @@
 # Third‑Party Licenses
 
-NetRemote verwendet verschiedene Open‑Source‑Bibliotheken.  
+NetRemote verwendet verschiedene Open‑Source‑Bibliotheken sowie Komponenten von Drittanbietern.
 Die folgenden Komponenten werden gemäß ihren jeweiligen Lizenzen genutzt.  
 Die vollständigen Lizenztexte befinden sich in den jeweiligen Projektrepositories oder NuGet‑Paketen.
 
@@ -18,8 +18,14 @@ Die vollständigen Lizenztexte befinden sich in den jeweiligen Projektrepositori
 **Originalautor:** Miguel de Icaza
 **Lizenz:** MIT
 **Repository:** https://github.com/migueldeicaza/XtermSharp
-**Hinweis:** Diese Version wurde von mir angepasst, um mehrere Fehler zu beheben und die Bibliothek auf .NET 8 zu portieren.
+**Hinweis:** Diese Version wurde von mir angepasst, um mehrere Fehler zu beheben und die Bibliothek auf .NET 10 zu portieren.
 Die vorgenommenen Änderungen betreffen ausschließlich Debugging‑Korrekturen und Kompatibilitätsanpassungen.
+Meine Änderungen unterliegen ebenfalls den Bedingungen der MIT-Lizenz des Originalprojekts.
+
+## Microsoft Remote Desktop ActiveX Control
+**Autor:** Microsoft
+**Lizenz:** Bestandteil von Microsoft Windows
+**Hinweis:** Wird für die integrierte RDP-Funktionalität verwendet.
 
 ## RemoteViewing (Lemutec.RemoteViewing)  
 **Autor:** James F. Bellinger / Lemutec  
@@ -32,6 +38,12 @@ Die vorgenommenen Änderungen betreffen ausschließlich Debugging‑Korrekturen 
 **Lizenz:** MIT  
 **Repository:** https://github.com/bcgit/bc-csharp
 **Hinweis:** Wird als transitive Abhängigkeit genutzt (Kryptographie‑Funktionen, u. a. für RemoteViewing/Zlib).
+
+## Microsoft.Web.WebView2
+**Autor:** Microsoft
+**Lizenz:** Microsoft Software License Terms
+**Repository:** https://github.com/MicrosoftEdge/WebView2Samples
+**Hinweis:** Wird für die integrierte Browserfunktionalität verwendet.
 
 ---
 
@@ -91,9 +103,13 @@ Die Bibliothek wird dynamisch eingebunden und nicht modifiziert.
 **Hinweis:** Enthält die LibVLC‑Runtime für Windows (libvlc.dll, libvlccore.dll, Plugins).  
 Die Bibliothek wird dynamisch eingebunden und nicht modifiziert.
 
+LibVLC und LibVLCSharp werden unter der LGPL 2.1 bereitgestellt.
+NetRemote nutzt diese Bibliotheken unverändert und dynamisch eingebunden.
+Der Quellcode der Bibliotheken sowie die Lizenztexte sind über die jeweiligen Projektseiten verfügbar.
+
 # Hinweis
 
 Alle oben genannten Bibliotheken werden dynamisch oder als NuGet‑Abhängigkeiten eingebunden.  
-Die jeweiligen Lizenztexte sind in den NuGet‑Paketen enthalten und können dort eingesehen werden.
+Die vollständigen Lizenztexte können über die jeweiligen Projektseiten, Repositorys oder NuGet-Pakete eingesehen werden.
 
 NetRemote selbst bleibt Closed Source.  
