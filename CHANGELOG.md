@@ -1,5 +1,39 @@
 # Changelog
 
+## 2.0.0 – Fluent UI Redesign & NetDiag Integration
+
+### Veröffentlichungsdatum
+2026-11-21
+
+### Neues Fluent Design
+- Benutzeroberfläche vollständig auf modernes Fluent Design umgestellt
+- Überarbeitete Navigation und Dialoge
+- Verbesserte Konsistenz und Bedienbarkeit der gesamten Anwendung
+
+### NetDiag
+- Netzwerkdiagnose vollständig integriert
+- DNS-Auflösung
+- ICMP/Ping-Tests
+- TCP-Port-Erreichbarkeit
+- TraceRoute
+
+### Verbindungsverwaltung
+- Suchfunktion vollständig überarbeitet
+- Verbesserte Verwaltung von Verbindungen und Gruppen
+- Optimiertes Änderungs-Tracking
+- Schnellere Navigation innerhalb großer Verbindungslisten
+
+### Plattform
+- Migration auf .NET 10
+- Modernisierung der Anwendungsarchitektur
+- Verbesserte Performance
+- Verbesserte Kompatibilität mit aktuellen Windows-Versionen
+
+### Allgemein
+- Zahlreiche UX-Verbesserungen
+- Diverse Stabilitätsverbesserungen
+- Zahlreiche Fehlerkorrekturen
+
 ## 1.1.3 – Quick Connect, API Tester und UX/UI-Verbesserungen
 ### Veröffentlichungsdatum
 2026‑08‑12
